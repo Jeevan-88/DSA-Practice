@@ -1,3 +1,8 @@
+// Problem: Check if two strings are anagrams (LeetCode #242)
+// Difficulty: Easy
+// Pattern: HashMap Frequency Counting
+// Date: Feb 16, 2026
+
 import java.util.Scanner;
 import java.util.HashMap;
 public class Problem19_ValidAnagram {
