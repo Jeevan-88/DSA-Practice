@@ -31,3 +31,4 @@ public class Problem20_FirstUniqueCharacter {
         sc.close();
     }
 }
+`1
