@@ -32,7 +32,7 @@ public class Problem28_ValidParentheses {
                     isValid = false;
                     break;
                 }
-                if (ch == ']' && top != '[') {
+                if (ch == '}' && top != '{') {
                     isValid = false;
                     break;
                 }
