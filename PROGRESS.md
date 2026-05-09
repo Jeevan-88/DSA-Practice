@@ -114,7 +114,7 @@
 | P33 | Sqrt(x) | LC #69 | Easy | Binary Search | ✅ |
 | P34 | Find Peak Element | LC #162 | Medium | Binary Search | ✅ |
 | P35 | Reverse Integer | LC #7 | Medium | Math/Logic | ✅ |
-| P36 | Fizz Buzz | LC #412 | Easy | Logic Building | ⬜ |
+| P36 | Fizz Buzz | LC #412 | Easy | Logic Building | ✅ |
 | P37 | Power of Two | LC #231 | Easy | Bit Manipulation | ⬜ |
 | P38 | Number of 1 Bits | LC #191 | Easy | Bit Manipulation | ⬜ |
 
